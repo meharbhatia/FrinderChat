@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "682703647427",
+    "firebase_url": "https://fir-chat-58c9c.firebaseio.com",
+    "project_id": "fir-chat-58c9c",
+    "storage_bucket": "fir-chat-58c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682703647427:android:3e1979231d4126a7",
+        "android_client_info": {
+          "package_name": "com.example.mehar.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682703647427-duupk7uiq5t24686qug3bg3b9k4a4bk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUWpg85ZWiAX7V_HthISKeCee2ZYaW_F8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
